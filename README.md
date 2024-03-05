@@ -14,13 +14,13 @@ The percentage change from the opening price at the beginning of a given year to
 
 The total stock volume of the stock.
 
-##Included Attachments:
+## Included Attachments:
 
 Screenshots of Results
 
 VBS file with code
 
-##Resources:
+## Resources:
 
 Structure with using the WorksheetFunction Min/Max was obtained here: https://stackoverflow.com/questions/27776155/visual-basic-in-excel-worksheetfunction-max
 
